@@ -16,7 +16,7 @@ I am currently working as a Cognitive Developer Intern for Data & AI at IBM on t
 ## Follow Me on Medium
 Please follow me at https://medium.com/@thomashikaru to see my latest writings on data science, computational linguistics, cities, maps, education, and more! 
 
-![manhattan_library_dist.jpg]
+![](manhattan_library_dist.jpg)
 
-![2dheat.jpg]
+![](2dheat.jpg)
 
