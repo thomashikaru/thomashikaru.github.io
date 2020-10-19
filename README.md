@@ -3,6 +3,8 @@
 ## About Me
 I grew up in Tokyo, Japan but my family has moved around a lot since then. After graduating from college, I spent two years teaching HS Computer Science and Math in Jacksonville, FL. What I loved about being a teacher was the opportunity to make complex ideas accessible to students, as well as engaging in coaching and mentorship. I have three sisters, a mixed-breed rescue dog, and Bi-Racial Identity Confusion Syndrome (BRICS). 
 
+![](pirome.jpg)
+
 ## Interests
 I am broadly interested in machine learning for NLP, linguistics, data science, etc. More specifically within NLP, I am interested in sequence-to-sequence models and context-sensitive word embeddings. I am excited about the computational models of human cognition, and the intersection between NLP and cognitive science. 
 
@@ -18,7 +20,12 @@ Most recently, I interned on the IBM Watson Speech to Text team, working on mach
 ## Follow Me on Medium
 Please follow me at https://medium.com/@thomashikaru to see my latest writings on data science, computational linguistics, cities, maps, education, and more! 
 
+![New to Data Visualization? Start With New York City](https://towardsdatascience.com/new-to-data-visualization-start-with-new-york-city-107785f836ab)
 ![](manhattan_library_dist.jpg)
 
+![Why Neural Nets Can Approximate Any Function](https://towardsdatascience.com/why-neural-nets-can-approximate-any-function-a878768502f0)
 ![](2dheat.jpg)
+
+![Analyzing YouTube Discourse with NLP](https://towardsdatascience.com/analyze-youtube-discourse-and-find-troll-bots-with-python-410daacbba6b)
+![](fox_2.png)
 
