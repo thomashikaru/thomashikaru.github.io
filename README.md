@@ -3,7 +3,7 @@
 ## About Me
 I grew up in Tokyo, Japan but my family has moved around a lot since then. After graduating from college, I spent two years teaching HS Computer Science and Math in Jacksonville, FL. What I loved about being a teacher was the opportunity to make complex ideas accessible to students, as well as engaging in coaching and mentorship. I have three sisters, a mixed-breed rescue dog, and Bi-Racial Identity Confusion Syndrome (BRICS). 
 
-![](pirome.jpg)
+![](pirome.jpeg)
 
 ## Interests
 I am broadly interested in machine learning for NLP, linguistics, data science, etc. More specifically within NLP, I am interested in sequence-to-sequence models and context-sensitive word embeddings. I am excited about the computational models of human cognition, and the intersection between NLP and cognitive science. 
