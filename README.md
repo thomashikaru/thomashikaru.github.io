@@ -34,5 +34,5 @@ Please follow me at https://medium.com/@thomashikaru to see my latest writings o
 
 ![A Meditation on the Mandelbrot Set](https://medium.com/swlh/a-meditation-on-the-mandelbrot-set-45fcb52ab673)
 
-![](mandelbrot16.png)
+![](mandelbrot24.png)
 
