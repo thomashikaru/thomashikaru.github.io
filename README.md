@@ -20,19 +20,19 @@ Most recently, I interned on the IBM Watson Speech to Text team, working on mach
 ## Follow Me on Medium
 Please follow me at https://medium.com/@thomashikaru to see my latest writings on data science, computational linguistics, cities, maps, education, and more! 
 
-![New to Data Visualization? Start With New York City](https://towardsdatascience.com/new-to-data-visualization-start-with-new-york-city-107785f836ab)
+[New to Data Visualization? Start With New York City](https://towardsdatascience.com/new-to-data-visualization-start-with-new-york-city-107785f836ab)
 
 ![](manhattan_library_dist.jpg)
 
-![Why Neural Nets Can Approximate Any Function](https://towardsdatascience.com/why-neural-nets-can-approximate-any-function-a878768502f0)
+[Why Neural Nets Can Approximate Any Function](https://towardsdatascience.com/why-neural-nets-can-approximate-any-function-a878768502f0)
 
 ![](2dheat.jpg)
 
-![Analyzing YouTube Discourse with NLP](https://towardsdatascience.com/analyze-youtube-discourse-and-find-troll-bots-with-python-410daacbba6b)
+[Analyzing YouTube Discourse with NLP](https://towardsdatascience.com/analyze-youtube-discourse-and-find-troll-bots-with-python-410daacbba6b)
 
 ![](fox_2.png)
 
-![A Meditation on the Mandelbrot Set](https://medium.com/swlh/a-meditation-on-the-mandelbrot-set-45fcb52ab673)
+[A Meditation on the Mandelbrot Set](https://medium.com/swlh/a-meditation-on-the-mandelbrot-set-45fcb52ab673)
 
 ![](mandelbrot24.png)
 
