@@ -29,3 +29,6 @@ Please follow me at https://medium.com/@thomashikaru to see my latest writings o
 ![Analyzing YouTube Discourse with NLP](https://towardsdatascience.com/analyze-youtube-discourse-and-find-troll-bots-with-python-410daacbba6b)
 ![](fox_2.png)
 
+![A Meditation on the Mandelbrot Set](https://medium.com/swlh/a-meditation-on-the-mandelbrot-set-45fcb52ab673)
+![](mandelbrot16.png)
+
