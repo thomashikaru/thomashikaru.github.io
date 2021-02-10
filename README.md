@@ -6,7 +6,7 @@ My family is half-Japanese and half-American (Italian and Canadian/English ances
 ![](pirome.jpeg)
 
 ## Interests
-I am broadly interested in machine learning for NLP, linguistics, data science, etc. I have worked on projects involving from a variety of sub-areas, including speech recognition, information-theoretic approaches to language processing, and stance detection on news and social media datasets. I am excited about computational models of human cognition, and the intersection between NLP and cognitive science. In my opinion, the biggest challenge for NLP systems is resolving ambiguity in a human-like way, and I am interested in research that examines how language models handle syntactic and semantic ambiguity. 
+I am broadly interested in machine learning for NLP, linguistics, data science, etc. I have worked on projects involving from a variety of sub-areas, including speech recognition, information-theoretic approaches to language processing, and stance detection on news and social media datasets. I am excited about computational models of human cognition, and the intersection between NLP and cognitive science. In my opinion, the biggest challenge for NLP systems is resolving ambiguity in a human-like way, and I am interested in research that examines how language models handle syntactic and semantic ambiguity. I am currently working on a project that involves applying Transformer-based language models (BERT, RoBERTa) to stance detection for social media with commonsense and factual knowledge infusion from Knowledge Graphs. 
 
 My other interests include urban design, maps, AI ethics, language learning, and philosophy. 
 
@@ -16,6 +16,9 @@ I earned a M.Ed. from the University of Notre Dame as part of the ACE Teaching F
 
 ## Experience
 Most recently, I [interned](https://medium.com/ibm-watson/summer-intern-report-improving-the-watson-speech-data-pipeline-dffe82e71187) on the IBM Watson Speech to Text team, working on machine learning approaches for speech recognition and dataset verification. Previously, I have done iOS development for the Paideia Institute in Rome, Italy, and have done volunteer service projects in Russia and Japan. 
+
+## Check out my Podcast
+I host a podcast called Modus Mirandi, which is dedicated to meaningful conversations on random topics with people from different backgrounds and disciplines. You can check it out on [Spotify](https://open.spotify.com/show/1NeIw3Y3aG6HaZ1U0eB8zq) or other podcast platforms. 
 
 ## Follow Me on Medium
 Please follow me at https://medium.com/@thomashikaru to see my latest writings on data science, computational linguistics, cities, maps, education, and more! 
