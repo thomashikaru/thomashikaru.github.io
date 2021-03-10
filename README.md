@@ -39,6 +39,6 @@ Please follow me at https://medium.com/@thomashikaru to see my latest writings o
 
 ![](mandelbrot24.png)
 
-[An Intuitive Look at the Basics of Information Theory] (https://towardsdatascience.com/an-intuitive-look-at-the-basics-of-information-theory-2bf0d2fff85e)
+[An Intuitive Look at the Basics of Information Theory](https://towardsdatascience.com/an-intuitive-look-at-the-basics-of-information-theory-2bf0d2fff85e)
 ![](infotheory.png)
 
