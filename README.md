@@ -1,7 +1,7 @@
 # Thomas Hikaru Clark's Page
 
 ## About Me
-My family is half-Japanese and half-American (Italian and Canadian/English ancestry). My three sisters and I grew up in Tokyo but my family has moved around a lot since then (London, Washington D.C., Manila). After graduating from college, I spent two years [teaching](https://ace.nd.edu/news/getting-things-done-escape-room-style) HS Computer Science and Math in Jacksonville, FL. What I loved about being a teacher was the opportunity to make complex ideas accessible to students, as well as engaging in coaching and mentorship.
+My family is half-Japanese and half-American, and my three sisters and I grew up in Tokyo, Japan. Since then, my family has moved around a lot (London, Washington D.C., Manila). After graduating from college, I spent two years [teaching](https://ace.nd.edu/news/getting-things-done-escape-room-style) HS Computer Science and Math in Jacksonville, FL. What I loved about being a teacher was the opportunity to make complex ideas accessible to students, as well as engaging in coaching and mentorship.
 
 ![](pirome.jpeg)
 
@@ -38,4 +38,7 @@ Please follow me at https://medium.com/@thomashikaru to see my latest writings o
 [A Meditation on the Mandelbrot Set](https://medium.com/swlh/a-meditation-on-the-mandelbrot-set-45fcb52ab673)
 
 ![](mandelbrot24.png)
+
+[An Intuitive Look at the Basics of Information Theory] (https://towardsdatascience.com/an-intuitive-look-at-the-basics-of-information-theory-2bf0d2fff85e)
+![](infotheory.png)
 
