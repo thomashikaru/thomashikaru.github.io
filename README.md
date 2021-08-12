@@ -12,10 +12,10 @@ My other interests include urban design, maps, AI ethics, language learning, and
 
 ## Education
 I received my undergraduate degree in Computer Science from Princeton University, where I also earned certificates in Linguistics and Russian Language & Culture. 
-I earned a M.Ed. from the University of Notre Dame as part of the ACE Teaching Fellows 25th Cohort. I am currently pursuing an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, where I am involved in the [Language Technology Lab](http://ltl.mml.cam.ac.uk/).
+I earned a M.Ed. from the University of Notre Dame as part of the ACE Teaching Fellows 25th Cohort. I completed an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, where I was involved in the [Language Technology Lab](http://ltl.mml.cam.ac.uk/).
 
 ## Experience
-Most recently, I [interned](https://medium.com/ibm-watson/summer-intern-report-improving-the-watson-speech-data-pipeline-dffe82e71187) on the IBM Watson Speech to Text team, working on machine learning approaches for speech recognition and dataset verification. Previously, I have done iOS development for the Paideia Institute in Rome, Italy, and have done volunteer service projects in Russia and Japan. 
+Most recently, I worked as a Machine Learning Research Intern at Vimeo. Previously, I interned on the IBM Watson Speech to Text team, working on machine learning approaches for speech recognition and dataset verification. Previously, I have done iOS development for the Paideia Institute in Rome, Italy, and have done volunteer service projects in Russia and Japan. 
 
 ## Check out my Podcast
 I host a podcast called Modus Mirandi, which is dedicated to meaningful conversations on random topics with people from different backgrounds and disciplines. You can check it out on [Spotify](https://open.spotify.com/show/1NeIw3Y3aG6HaZ1U0eB8zq) or other podcast platforms. 
