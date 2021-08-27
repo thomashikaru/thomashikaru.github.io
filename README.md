@@ -1,7 +1,7 @@
 # Thomas Hikaru Clark's Page
 
 ## About Me
-My family is half-Japanese and half-American, and my three sisters and I grew up in Tokyo, Japan. Since then, my family has moved around a lot (London, Washington D.C., Manila). After graduating from college, I spent two years [teaching](https://ace.nd.edu/news/getting-things-done-escape-room-style) HS Computer Science and Math in Jacksonville, FL. What I loved about being a teacher was the opportunity to make complex ideas accessible to students, as well as engaging in coaching and mentorship.
+My family is half-Japanese and half-American, and my three sisters and I grew up in Tokyo, Japan. Since then, my family has moved around a lot (London, Washington D.C., Manila). After graduating from college, I spent two years [teaching](https://ace.nd.edu/news/getting-things-done-escape-room-style) HS Computer Science and Math in Jacksonville, FL. What I loved about being a teacher was the opportunity to make complex ideas accessible to students, as well as engaging in coaching and mentorship. I am currently living and studying as a PhD student at MIT in Cambridge, Massachusetts. 
 
 ![](pirome.jpeg)
 
@@ -11,11 +11,10 @@ I am broadly interested in machine learning for NLP, linguistics, data science, 
 My other interests include urban design, maps, AI ethics, language learning, and philosophy. 
 
 ## Education
-I received my undergraduate degree in Computer Science from Princeton University, where I also earned certificates in Linguistics and Russian Language & Culture. 
-I earned a M.Ed. from the University of Notre Dame as part of the ACE Teaching Fellows 25th Cohort. I completed an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, where I was involved in the [Language Technology Lab](http://ltl.mml.cam.ac.uk/).
+I am currently a PhD candidate at MIT in the department of Brain and Cognitive Sciences. I received my undergraduate degree in Computer Science from Princeton University, where I also earned certificates in Linguistics and Russian Language & Culture. After graduating from Princeton, I earned a M.Ed. from the University of Notre Dame as part of the ACE Teaching Fellows 25th Cohort. After finishing 2 years of teaching, I completed an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, where I was involved in the [Language Technology Lab](http://ltl.mml.cam.ac.uk/). 
 
 ## Experience
-Most recently, I worked as a Machine Learning Research Intern at Vimeo. Previously, I interned on the IBM Watson Speech to Text team, working on machine learning approaches for speech recognition and dataset verification. Previously, I have done iOS development for the Paideia Institute in Rome, Italy, and have done volunteer service projects in Russia and Japan. 
+Most recently, I worked as a Machine Learning Research Intern at Vimeo. Previously, I interned on the IBM Watson Speech to Text team, working on machine learning approaches for speech recognition and dataset verification. Previously, I have done iOS development for the Paideia Institute in Rome, Italy, and have done volunteer service projects in Russia and Japan. During the summer of 2021, I was an instructor for a summer startup camp at the Cambridge Center for International Research, teaching machine learning and data science principles to students from around the world. 
 
 ## Check out my Podcast
 I host a podcast called Modus Mirandi, which is dedicated to meaningful conversations on random topics with people from different backgrounds and disciplines. You can check it out on [Spotify](https://open.spotify.com/show/1NeIw3Y3aG6HaZ1U0eB8zq) or other podcast platforms. 
