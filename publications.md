@@ -1,3 +1,7 @@
+layout: page
+title: "Publications and Presentations"
+permalink: /pubs/
+
 # Publications and Presentations
 
 ## Publications
