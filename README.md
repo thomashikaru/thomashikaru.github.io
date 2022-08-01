@@ -9,6 +9,8 @@ I am interested in the principles underlying human language and cognition, and h
 
 My other interests include urban design, maps, AI ethics, language learning, science communication, and philosophy. 
 
+## [Publications and Presentations](/pubs/)
+
 ## Education
 I am currently a PhD student at MIT in the department of Brain and Cognitive Sciences, where I am a member of [TedLab](http://tedlab.mit.edu/) and the [Computational Psycholinguistics Lab](http://cpl.mit.edu/). I received my undergraduate degree in Computer Science from Princeton University, where I also earned certificates in Linguistics and Russian Language & Culture. After college, I earned an M.Ed. from the University of Notre Dame as part of the ACE Teaching Fellows 25th Cohort; I [taught](https://ace.nd.edu/news/getting-things-done-escape-room-style) HS Computer Science and Math in Jacksonville, FL. Afterwards, I returned to grad school for an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, where I was involved in the [Language Technology Lab](http://ltl.mml.cam.ac.uk/) and continued on to a PhD in a different city named Cambridge. 
 
