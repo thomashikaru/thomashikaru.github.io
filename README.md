@@ -13,7 +13,7 @@ My other interests include urban design, AI ethics, language learning, and scien
 
 ## Curriculum Vitae
 
-[Thomas Hikaru Clark CV](pubs/Thomas%20Hikaru%20Clark%20--%20Curriculum%20Vitae-April-2025.pdf)
+[Thomas Hikaru Clark CV](pubs/Thomas%20Hikaru%20Clark%20%E2%80%94%20Curriculum%20Vitae-April-2025.pdf)
 
 ## Publications and Presentations
 
