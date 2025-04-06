@@ -34,8 +34,8 @@ My other interests include urban design, AI ethics, language learning, and scien
 ### Poster Presentations
 
 - “A Model of Approximate and Incremental Noisy-Channel Language Processing”, 47th Annual Meeting of the Cognitive Science Society (upcoming).
-- “[Modeling Noisy-Channel Language Processing with Incremental and Approximate Probabilistic Inference]((pubs/HSP2025Poster_NoisyChannelModel.pdf))”, 38th Annual Conference on Human Sentence Processing. 
-- “[Meaning distinctiveness predicts sentence memorability]((pubs/HSP2025Poster_SentenceMemorability.pdf))”, 38th Annual Conference on Human Sentence Processing.
+- “[Modeling Noisy-Channel Language Processing with Incremental and Approximate Probabilistic Inference](pubs/HSP2025Poster_NoisyChannelModel.pdf)”, 38th Annual Conference on Human Sentence Processing. 
+- “[Meaning distinctiveness predicts sentence memorability](pubs/HSP2025Poster_SentenceMemorability.pdf)”, 38th Annual Conference on Human Sentence Processing.
 - “Inferring Errors and Intended Meanings with a Generative Model of Language Production in Aphasia”, 46th Annual Meeting of the Cognitive Science Society.
 - “A Cross-Linguistic Pressure for Uniform Information Density in Word Order”, EMNLP 2023. 
 - “Context-sensitive features predict sentence memorability in the absence of memorable words”, 45th Annual Meeting of the Cognitive Science Society. 
