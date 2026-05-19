@@ -1,0 +1,76 @@
+# Edit tiles, summaries, and figure_image paths after reviewing locally.
+# Optional per tile: background_color (hex, rgb(), or named CSS color). Defaults to white.
+# Example: background_color: "#f0f4f8"
+- id: noisy-channel
+  title: Noisy-channel processing
+  figure_image: /assets/img/interests/noisy-channel.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    Building algorithmic models of noisy-channel language processing—how humans
+    extract meaning from anomalous or erroneous utterances in a cognitively
+    plausible, resource-rational way.
+
+- id: constraints
+  title: Language production under constraints
+  figure_image: /assets/img/interests/vocab-constraints.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    How speakers communicate intended messages subject to constraints on language production, such as limited vocabulary or language barriers. 
+
+- id: mutual-intelligibility
+  title: Mutual intelligibility
+  figure_image: /assets/img/interests/mint-example.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    How do people understand each other when they speak different languages?
+
+- id: memorability
+  title: Sentence memorability
+  figure_image: /assets/img/interests/sentence-memorability.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    What makes some sentences more memorable than others, and how distinctiveness
+    of meaning and context shape memory for linguistic input.
+
+- id: word-order
+  title: Word order & UID
+  figure_image: /assets/img/interests/word-order.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    Cross-linguistic pressures on word order, including uniform information
+    density and how languages structure messages efficiently. What factors influence how speakers choose between two ways of saying the
+    same thing, using the Russian comparative alternation as a case study via
+    corpus and behavioral methods.
+
+- id: surprisal-conversation
+  title: Surprisal & conversation
+  figure_image: /assets/img/interests/surprisal-prosody.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    How speakers modulate prosody and dialogue behaviors (e.g. backchannels) to
+    support intelligibility when conveying surprising information.
+
+- id: urban-design
+  title: Data science for urbanism
+  figure_image: /assets/img/interests/bluebikes.png
+  figure_alt: Placeholder image
+  background_color: "#000000"
+  figure_credit: ""
+  summary: >-
+    How cities are planned and experienced—walkability, public space, and design
+    that shapes everyday life.
+
+- id: language-learning
+  title: Language learning
+  figure_image: /assets/img/interests/language-learning.png
+  figure_alt: Placeholder image
+  figure_credit: ""
+  summary: >-
+    How people acquire and teach languages, informed by classroom experience and
+    interest in effective pedagogy.

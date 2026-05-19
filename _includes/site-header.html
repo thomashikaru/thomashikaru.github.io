@@ -1,0 +1,38 @@
+{% assign p = site.data.profile %}
+<header class="site-header">
+  <div class="site-header-main">
+    <h1 class="site-header-name">{{ p.name }}</h1>
+
+    <div class="site-header-info">
+      {% if p.position %}
+      <p class="site-header-line site-header-position">{{ p.position }}</p>
+      {% endif %}
+      {% if p.department %}
+      <p class="site-header-line site-header-department">{{ p.department }}</p>
+      {% endif %}
+      {% if p.affiliation %}
+      <p class="site-header-line site-header-affiliation">{{ p.affiliation }}</p>
+      {% endif %}
+    </div>
+
+    {% if p.contact.size > 0 %}
+    <nav class="site-header-contact" aria-label="Contact">
+      <ul>
+        {% for item in p.contact %}
+          {% if item.url and item.url != "" %}
+        <li>
+          <a href="{{ item.url }}"{% if item.url contains 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>
+            {% if item.text %}{{ item.text }}{% else %}{{ item.label }}{% endif %}
+          </a>
+        </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
+  </div>
+
+  <figure class="site-header-photo">
+    <img src="{{ p.portrait | relative_url }}" alt="Portrait of {{ p.name }}" width="168" height="168">
+  </figure>
+</header>

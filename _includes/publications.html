@@ -1,0 +1,30 @@
+<p class="scholar-profile-link">
+  <a href="{{ site.scholar_profile_url }}" target="_blank" rel="noopener noreferrer">
+    View full profile on Google Scholar &rarr;
+  </a>
+</p>
+
+<ul class="publication-list">
+{% assign pdf_map = site.data.publication_pdfs %}
+{% for pub in site.data.publications %}
+  {% assign authors = pub.authors %}
+  {% assign authors = authors | replace: 'Thomas Hikaru Clark', '<strong>Thomas Hikaru Clark</strong>' %}
+  {% assign authors = authors | replace: 'Thomas H Clark', '<strong>Thomas H Clark</strong>' %}
+  {% assign authors = authors | replace: 'Thomas Clark', '<strong>Thomas Clark</strong>' %}
+  {% assign authors = authors | replace: 'Clark, T. H.', '<strong>Clark, T. H.</strong>' %}
+  {% assign authors = authors | replace: 'Clark, T.', '<strong>Clark, T.</strong>' %}
+  {% assign pdf_url = pdf_map[pub.title_key] %}
+  <li>
+    <span class="pub-authors">{{ authors }}</span>{% if pub.year %} ({{ pub.year }}).{% endif %}
+    {% if pub.url %}
+    <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">{{ pub.title }}.</a>
+    {% else %}
+    {{ pub.title }}.
+    {% endif %}
+    {% if pub.venue %}{{ pub.venue }}.{% endif %}
+    {% if pdf_url %}
+    <a href="{% if pdf_url contains '://' %}{{ pdf_url }}{% else %}{{ pdf_url | relative_url }}{% endif %}" class="pdf-link" title="Download PDF"{% if pdf_url contains '://' %} target="_blank" rel="noopener noreferrer"{% endif %}><i class="fas fa-file-pdf"></i></a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

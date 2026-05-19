@@ -1,0 +1,17 @@
+name: Thomas Hikaru Clark
+portrait: portrait.jpg
+
+# Role & affiliation (edit as needed)
+position: PhD Candidate
+department: MIT — Brain and Cognitive Sciences
+affiliation: TedLab · Computational Psycholinguistics Lab
+
+# Contact links (omit or leave url blank to hide a row)
+contact:
+  - label: Email
+    url: mailto:thclark@mit.edu
+    text: thclark@mit.edu
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=gOucDpQAAAAJ
+  - label: GitHub
+    url: https://github.com/thomashikaru

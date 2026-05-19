@@ -1,0 +1,28 @@
+<div class="interest-grid" role="list">
+{% for item in site.data.interests %}
+  <button
+    type="button"
+    class="interest-tile"
+    role="listitem"
+    aria-expanded="false"
+    aria-controls="interest-back-{{ item.id }}"
+    id="interest-tile-{{ item.id }}"
+    data-interest-id="{{ item.id }}"
+  >
+    <div class="interest-card">
+      <div class="interest-card-face interest-card-front" style="--tile-bg: {{ item.background_color | default: '#ffffff' }};">
+        <div class="interest-card-image">
+          <img src="{{ item.figure_image | relative_url }}" alt="{{ item.figure_alt }}" loading="lazy">
+        </div>
+        <span class="interest-title">{{ item.title }}</span>
+      </div>
+      <div class="interest-card-face interest-card-back" id="interest-back-{{ item.id }}">
+        <p>{{ item.summary }}</p>
+        {% if item.figure_credit %}
+        <small class="interest-credit">{{ item.figure_credit }}</small>
+        {% endif %}
+      </div>
+    </div>
+  </button>
+{% endfor %}
+</div>

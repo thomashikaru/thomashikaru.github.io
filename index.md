@@ -2,18 +2,13 @@
 layout: default
 ---
 
-# Thomas Hikaru Clark
-
-Hi! I'm Thomas :)
-
-![](portrait.jpg)
+{% include site-header.html %}
 
 ## Interests
-I am interested in the principles underlying human language and cognition, and how the tools of NLP, information theory, and probabilistic inference can shed light on these principles. My primary line of research involves building algorithmic models of "noisy-channel language processing", explaining how humans are able to extract meaning from anomalous or erroneous utterances in a cognitively plausible and resource-rational way. 
 
-I've also done projects investigating what factors influence how speakers choose between two possible ways of saying the same thing, looking at the Russian comparative alternation as a case study via both corpus study and behavioral experimentation; what makes some sentences more memorable than others, what might explain why languages have the word orders that they do; and what speakers modulate how they talk to emphasize surprising words in conversation.  
+<p class="interests-intro">I study the principles underlying human language and cognition, using NLP, information theory, and probabilistic inference. Click a tile to learn more.</p>
 
-My other interests include urban design, AI ethics, language learning, and science communication. 
+{% include interests.html %}
 
 ## Curriculum Vitae
 
@@ -23,17 +18,7 @@ My other interests include urban design, AI ethics, language learning, and scien
 
 ### Publications
 
-- **Clark, T. H.,** Tuckute, G., Medina, B., & Fedorenko, E. (2026). [A distinctive meaning makes a sentence memorable.](https://doi.org/10.1016/j.jml.2025.104700) Journal of Memory and Language, 146, 104700. <a href="pubs/Sentence_Memorability_JML_202509.pdf" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a>
-- **Clark, T. H.,** Vigly, J. H., Gibson, E., & Levy, R. P. (2025). [Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences.](https://aclanthology.org/2025.emnlp-main.1207/) In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 23659–23672). Association for Computational Linguistics. <a href="https://aclanthology.org/2025.emnlp-main.1207.pdf" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a>
-- **Clark, T.,** Vigly, J. H., Gibson, E., & Levy, R. (2025). [A Model of Approximate and Incremental Noisy-Channel Language Processing.](https://escholarship.org/uc/item/9kr1b1gm) Proceedings of the Annual Meeting of the Cognitive Science Society, 47(0). <a href="https://escholarship.org/uc/item/9kr1b1gm" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a>
-- **Clark, T. H.,** Poliak, M., Regev, T., Haskins, A. J., Gibson, E., & Robertson, C. (2025). [The relationship between surprisal, prosody, and backchannels in conversation reflects intelligibility-oriented pressures.](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70134) Cognitive Science. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.70134" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a>
-- Ivanova, A. A., Sathe, A., Lipkin, B., Kumar, U., Radkani, S., **Clark, T. H.,** Kauf, C., Hu, J., Pramod, R. T., Grand, G., Paulun, V., Ryskina, M., Akyürek, E., Wilcox, E., Rashid, N., Choshen, L., Levy, R., Fedorenko, E., Tenenbaum, J., & Andreas, J. (2024). [Elements of World Knowledge (EWOK): A cognition-inspired framework for evaluating basic world knowledge in language models.](https://doi.org/10.1162/TACL.a.38) Transactions of the Association for Computational Linguistics.
-- **Clark, T. H.,** Meister, C., Pimentel, T., Hahn, M., Cotterell, R., Futrell, R., & Levy, R. (2023). [A Cross-Linguistic Pressure for Uniform Information Density in Word Order.](https://doi.org/10.1162/tacl_a_00589) Transactions of the Association for Computational Linguistics.
-- **Clark, T.,** Wilcox, E. G., Gibson, E., & Levy, R. (2022). [Evidence for Availability Effects on Speaker Choice in the Russian Comparative Alternation.](https://escholarship.org/uc/item/1q19f8vt) Proceedings of the Annual Meeting of the Cognitive Science Society. <a href="https://escholarship.org/uc/item/1q19f8vt" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a>
-- Meister, C., Pimentel, T., **Clark, T. H.,** Cotterell, R., & Levy, R. (2022). [Analyzing Wrap-Up Effects through an Information-Theoretic Lens.](https://aclanthology.org/2022.acl-short.3.pdf) Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics. <a href="https://aclanthology.org/2022.acl-short.3.pdf" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a>
-- **Clark, T.,** Conforti, C., Liu, F., Meng, Z., Shareghi, E., & Collier, N. (2021). [Integrating Transformers and Knowledge Graphs for Twitter Stance Detection.](https://aclanthology.org/2021.wnut-1.34/) Proceedings of the Seventh Workshop on Noisy User-Generated Text (W-NUT 2021).
-- Katsos, N., Banerjee, E., Chang, Y. J., **Clark, T.,** Cowan, J., Williamson, T. R., & Witkowska, Z. (2021). [Experimental Pragmatics: The Making of a Cognitive Science.](https://doi.org/10.1016/j.pragma.2021.09.006.) Journal of Pragmatics.
-- Meng, Z., Liu, F., **Clark, T. H.,** Shareghi, E., & Collier, N. (2021). [Mixture-of-partitions: Infusing large biomedical knowledge graphs into BERT.](https://aclanthology.org/2021.emnlp-main.383.pdf) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. <a href="https://aclanthology.org/2021.emnlp-main.383.pdf" class="pdf-link" title="Download PDF"><i class="fas fa-file-pdf"></i></a> 
+{% include publications.html %}
 
 ### Oral Presentations
 

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Use Homebrew Ruby (not macOS /usr/bin/ruby) so Bundler 2.7.2 + Jekyll 4.3 work.
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT"
+
+for ruby_bin in /opt/homebrew/opt/ruby/bin /usr/local/opt/ruby/bin; do
+  if [[ -x "${ruby_bin}/ruby" ]]; then
+    export PATH="${ruby_bin}:${PATH}"
+    break
+  fi
+done
+
+if ! command -v ruby >/dev/null; then
+  echo "Ruby not found. Install with: brew install ruby" >&2
+  exit 1
+fi
+
+echo "Using $(command -v ruby) ($(ruby -v))"
+bundle check >/dev/null 2>&1 || bundle install
+exec bundle exec jekyll serve "$@"
