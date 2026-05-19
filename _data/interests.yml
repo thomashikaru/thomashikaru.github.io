@@ -7,9 +7,9 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    Building algorithmic models of noisy-channel language processing—how humans
+    Building algorithmic-level models of noisy-channel language processing: how do humans
     extract meaning from anomalous or erroneous utterances in a cognitively
-    plausible, resource-rational way.
+    plausible, resource-rational way?
 
 - id: constraints
   title: Language production under constraints
@@ -17,7 +17,7 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    How speakers communicate intended messages subject to constraints on language production, such as limited vocabulary or language barriers. 
+    How do speakers communicate intended messages subject to constraints on language production, such as limited vocabulary or language barriers? To what extent do people follow greedy or globally optimal strategies?
 
 - id: mutual-intelligibility
   title: Mutual intelligibility
@@ -25,7 +25,7 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    How do people understand each other when they speak different languages?
+    How do people understand each other when they speak different languages? How do they infer complex mappings between an unfamiliar language and a familiar one, on the fly?
 
 - id: memorability
   title: Sentence memorability
@@ -33,8 +33,7 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    What makes some sentences more memorable than others, and how distinctiveness
-    of meaning and context shape memory for linguistic input.
+    What makes some sentences more memorable than others, and how does representation distinctiveness shape memory for linguistic input?
 
 - id: word-order
   title: Word order & UID
@@ -42,10 +41,8 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    Cross-linguistic pressures on word order, including uniform information
-    density and how languages structure messages efficiently. What factors influence how speakers choose between two ways of saying the
-    same thing, using the Russian comparative alternation as a case study via
-    corpus and behavioral methods.
+    What factors influence how speakers choose between two ways of saying the
+    same thing? How do the rules of a language's word order shape the structure of messages?
 
 - id: surprisal-conversation
   title: Surprisal & conversation
@@ -53,8 +50,8 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    How speakers modulate prosody and dialogue behaviors (e.g. backchannels) to
-    support intelligibility when conveying surprising information.
+    Do speakers modulate prosody and dialogue behaviors (e.g. backchannels) to
+    support intelligibility when conveying surprising information?
 
 - id: urban-design
   title: Data science for urbanism
@@ -63,8 +60,7 @@
   background_color: "#000000"
   figure_credit: ""
   summary: >-
-    How cities are planned and experienced—walkability, public space, and design
-    that shapes everyday life.
+    I'm passionate about using data to understand the patterns of how people live and move in cities, and hopefully use that knowledge to improve people's quality of life.
 
 - id: language-learning
   title: Language learning
@@ -72,5 +68,4 @@
   figure_alt: Placeholder image
   figure_credit: ""
   summary: >-
-    How people acquire and teach languages, informed by classroom experience and
-    interest in effective pedagogy.
+    I created and maintain <a href="https://www.polyglotcentral.com">Polyglot Central</a>, a platform for language learning.
