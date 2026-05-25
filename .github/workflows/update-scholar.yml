@@ -22,12 +22,13 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Fetch publications
-        # Optional secret; falls back to scholar_user_id in _config.yml when unset.
+        # Scholar often blocks GitHub-hosted runners; script keeps existing YAML on failure.
         env:
           SCHOLAR_USER_ID: ${{ secrets.SCHOLAR_USER_ID }}
         run: python scripts/fetch_scholar.py
 
       - name: Commit and push if changed
+        if: success()
         run: |
           if git diff --quiet _data/publications.yml; then
             echo "No publication changes."
