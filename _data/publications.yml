@@ -28,12 +28,6 @@
   venue: arXiv preprint arXiv:2605.15365
   year: 2026
   url: https://arxiv.org/abs/2605.15365
-- title: A model of approximate and incremental noisy-channel language processing
-  title_key: a model of approximate and incremental noisy-channel language processing
-  authors: Thomas Hikaru Clark, Jacob Vigly, Edward Gibson, & Roger Levy
-  venue: eScholarship
-  year: 2026
-  url: https://par.nsf.gov/servlets/purl/10674611
 - title: A distinctive meaning makes a sentence memorable
   title_key: a distinctive meaning makes a sentence memorable
   authors: Thomas Hikaru Clark, Greta Tuckute, Bryan Medina, & Evelina Fedorenko
@@ -70,6 +64,12 @@
   venue: arXiv preprint arXiv:2509.14405
   year: 2025
   url: https://arxiv.org/abs/2509.14405
+- title: A model of approximate and incremental noisy-channel language processing
+  title_key: a model of approximate and incremental noisy-channel language processing
+  authors: Thomas Clark, Jacob Hoover Vigly, Edward Gibson, & Roger Levy
+  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+  year: 2025
+  url: https://escholarship.org/uc/item/9kr1b1gm
 - title: Inferring errors and intended meanings with a generative model of language production in aphasia
   title_key: inferring errors and intended meanings with a generative model of language production in aphasia
   authors: Thomas Clark, Edward Gibson, & Roger Levy
