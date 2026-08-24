@@ -13,75 +13,83 @@
   authors: Thomas Hikaru Clark, Carlos Arriaga, Javier Conde, Gonzalo Martínez, & Pedro Reviriego
   venue: arXiv preprint arXiv:2603.12105
   year: 2026
-  url: https://arxiv.org/abs/2603.12105
+  url: ''
+- title: The syntactic constraint on English auxiliary contraction–CORRIGENDUM
+  title_key: the syntactic constraint on english auxiliary contraction-corrigendum
+  authors: Richard Hudson, Nikolas Gisborne, Thomas Hikaru Clark, Eva Duran Eppler, Willem Hollmann, Andrew Rosta, & Graeme
+    Trousdale
+  venue: Journal of Linguistics
+  year: 2026
+  url: https://www.cambridge.org/core/journals/journal-of-linguistics/article/syntactic-constraint-on-english-auxiliary-contraction-corrigendum/EA9918732858C665BC9F55D5C72CFB77
+- title: The syntactic constraint on English auxiliary contraction
+  title_key: the syntactic constraint on english auxiliary contraction
+  authors: Richard Hudson, Nikolas Gisborne, Thomas Hikaru Clark, Eva Duran Eppler, Willem Hollmann, Andrew Rosta, & Graeme
+    Trousdale
+  venue: Journal of Linguistics
+  year: 2026
+  url: ''
 - title: Readers make targeted regressions to plausible errors in reanalysis of “noisy-channel garden-path” sentences
   title_key: readers make targeted regressions to plausible errors in reanalysis of “noisy-channel garden-path” sentences
   authors: Thomas Hikaru Clark, Roger Levy, & Edward Gibson
   venue: Proceedings of the 30th Conference on Computational Natural Language Learning
   year: 2026
-  url: https://aclanthology.org/2026.conll-main.25/
+  url: ''
 - title: 'Greedy or not, here I come: Language production under vocabulary constraints in humans and resource-rational models'
   title_key: 'greedy or not, here i come: language production under vocabulary constraints in humans and resource-rational
     models'
   authors: Thomas Hikaru Clark, Sihan Chen, & Laura Nicolae
-  venue: arXiv preprint arXiv:2605.15365
+  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
   year: 2026
   url: https://arxiv.org/abs/2605.15365
+- title: 'Adding LLMs to the psycholinguistic norming toolbox: A practical guide to getting the most out of human ratings'
+  title_key: 'adding llms to the psycholinguistic norming toolbox: a practical guide to getting the most out of human ratings'
+  authors: Javier Conde, María Grandury, Tairan Fu, Carlos Arriaga, Gonzalo Martínez, Thomas Clark, Sean Trott, Clarence Gerald
+    Green, Pedro Reviriego, & Marc Brysbaert
+  venue: Behavior Research Methods
+  year: 2026
+  url: ''
 - title: A distinctive meaning makes a sentence memorable
   title_key: a distinctive meaning makes a sentence memorable
   authors: Thomas Hikaru Clark, Greta Tuckute, Bryan Medina, & Evelina Fedorenko
   venue: Journal of Memory and Language
   year: 2026
-  url: https://www.sciencedirect.com/science/article/pii/S0749596X25000932
-- title: The syntactic constraint on English auxiliary contraction
-  title_key: the syntactic constraint on english auxiliary contraction
-  authors: Richard Hudson, Nikolas Gisborne, Thomas Hikaru Clark, Eva Duran Eppler, Willem Hollmann, & Graeme Trousdale
-  venue: Journal of Linguistics
-  year: 2025
-  url: https://knowledge.lancashire.ac.uk/id/eprint/55140/
+  url: ''
 - title: The Relationship Between Surprisal and Prosodic Prominence in Conversation Reflects Intelligibility‐Oriented Pressures
   title_key: the relationship between surprisal and prosodic prominence in conversation reflects intelligibility-oriented
     pressures
   authors: Thomas Hikaru Clark, Moshe Poliak, Tamar Regev, AJ Haskins, Caroline Robertson, & Edward Gibson
   venue: Cognitive Science
   year: 2025
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.70134
+  url: ''
 - title: 'Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences'
   title_key: 'resource-rational noisy-channel language processing: testing the effect of algorithmic constraints on inferences'
   authors: Thomas Hikaru Clark, Jacob Hoover Vigly, Edward Gibson, & Roger Levy
   venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
   year: 2025
-  url: https://aclanthology.org/2025.emnlp-main.1207/
-- title: 'Elements of World Knowledge (EWOK): A cognition-inspired framework for evaluating basic world knowledge in language
-    models'
+  url: ''
+- title: 'Elements of World Knowledge (EWoK): A Cognition-Inspired Framework for Evaluating Basic World Knowledge in Language
+    Models'
   title_key: 'elements of world knowledge (ewok): a cognition-inspired framework for evaluating basic world knowledge in language
     models'
-  authors: Anna Ivanova, Aalok Sathe, Benjamin Lipkin, Unnathi Kumar, Setayesh Radkani, Thomas Clark, Carina Kauf, Jennifer
-    Hu, RT Pramod, Gabriel Grand, Vivian Paulun, Maria Ryskina, Ekin Akyürek, Ethan Wilcox, Nafisa Rashid, Leshem Chosen,
+  authors: Anna A Ivanova, Aalok Sathe, Benjamin Lipkin, Unnathi U Kumar, Setayesh Radkani, Thomas H Clark, Carina Kauf, Jennifer
+    Hu, RT Pramod, Gabriel Grand, Vivian C Paulun, Maria Ryskina, Ekin Akyürek, Ethan G Wilcox, Nafisa Rashid, Leshem Choshen,
     Roger Levy, Evelina Fedorenko, Joshua Tenenbaum, & Jacob Andreas
   venue: Transactions of the Association for Computational Linguistics
   year: 2025
-  url: https://transacl.org/ojs/index.php/tacl/article/view/8003
-- title: 'Adding LLMs to the psycholinguistic norming toolbox: A practical guide to getting the most out of human ratings'
-  title_key: 'adding llms to the psycholinguistic norming toolbox: a practical guide to getting the most out of human ratings'
-  authors: Javier Conde, María Grandury, Tairan Fu, Carlos Arriaga, Gonzalo Martínez, Thomas Clark, Sean Trott, Clarence Gerald
-    Green, Pedro Reviriego, & Marc Brysbaert
-  venue: arXiv preprint arXiv:2509.14405
-  year: 2025
-  url: https://arxiv.org/abs/2509.14405
-- title: A model of approximate and incremental noisy-channel language processing
+  url: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.38/133506
+- title: A Model of Approximate and Incremental Noisy-Channel Language Processing
   title_key: a model of approximate and incremental noisy-channel language processing
   authors: Thomas Clark, Jacob Hoover Vigly, Edward Gibson, & Roger Levy
   venue: Proceedings of the Annual Meeting of the Cognitive Science Society
   year: 2025
-  url: https://escholarship.org/uc/item/9kr1b1gm
+  url: ''
 - title: Inferring errors and intended meanings with a generative model of language production in aphasia
   title_key: inferring errors and intended meanings with a generative model of language production in aphasia
   authors: Thomas Clark, Edward Gibson, & Roger Levy
   venue: Proceedings of the Annual Meeting of the Cognitive Science Society
   year: 2024
   url: https://escholarship.org/uc/item/26s7j9d5
-- title: A cross-linguistic pressure for Uniform Information Density in word order
+- title: A cross-linguistic pressure for uniform information density in word order
   title_key: a cross-linguistic pressure for uniform information density in word order
   authors: Thomas Hikaru Clark, Clara Meister, Tiago Pimentel, Michael Hahn, Ryan Cotterell, Richard Futrell, & Roger Levy
   venue: Transactions of the Association for Computational Linguistics
@@ -92,7 +100,7 @@
   authors: Thomas Clark, Ethan Gotlieb Wilcox, Edward Gibson, & Roger Levy
   venue: Proceedings of the Annual Meeting of the Cognitive Science Society
   year: 2022
-  url: https://escholarship.org/uc/item/1q19f8vt
+  url: ''
 - title: Analyzing wrap-up effects through an information-theoretic lens
   title_key: analyzing wrap-up effects through an information-theoretic lens
   authors: Clara Meister, Tiago Pimentel, Thomas Clark, Ryan Cotterell, & Roger Levy
@@ -107,13 +115,20 @@
   url: https://aclanthology.org/2021.emnlp-main.383/
 - title: Integrating transformers and knowledge graphs for Twitter stance detection
   title_key: integrating transformers and knowledge graphs for twitter stance detection
-  authors: Thomas Hikaru Clark, Costanza Conforti, Fangyu Liu, Zaiqiao Meng, Ehsan Shareghi, & Nigel Collier
-  venue: Workshop on Noisy User-generated Text 2021
+  authors: Thomas Clark, Costanza Conforti, Fangyu Liu, Zaiqiao Meng, Ehsan Shareghi, & Nigel Collier
+  venue: Proceedings of the seventh workshop on noisy user-generated text (W-NUT 2021)
   year: 2021
-  url: https://research.monash.edu/en/publications/integrating-transformers-and-knowledge-graphs-for-twitter-stance-/
+  url: ''
 - title: 'Experimental Pragmatics: The Making of a Cognitive Science'
   title_key: 'experimental pragmatics: the making of a cognitive science'
   authors: Napoleon Katsos, Ema Banerjee, Yin Jue Chang, Thomas Clark, Joe Cowan, Thomas R Williamson, & Zuzanna Witkowska
   venue: Elsevier
   year: 2021
   url: https://www.repository.cam.ac.uk/items/085a0d1d-781a-4076-a28e-f7badd0dae13
+- title: Semantic Drivers of Gaze in Individuals With and Without Autism During Dyadic Conversation
+  title_key: semantic drivers of gaze in individuals with and without autism during dyadic conversation
+  authors: Katerina M Simkova, Amanda J Haskins, Ben Chamberlain Zivsak, Moshe Poliak, Thomas Hikaru Clark, Tamar I Regev,
+    Edward Gibson, & Caroline E Robertson
+  venue: 9th Annual Conference on Cognitive Computational Neuroscience
+  year: null
+  url: https://openreview.net/forum?id=8ByH5AQrsm
