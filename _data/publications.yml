@@ -2,10 +2,10 @@
 # Re-run locally or via .github/workflows/update-scholar.yml
 - title: 'We Hebben Een Serieus Translatie: Modeling Intercomprehension as Probabilistic Inference'
   title_key: 'we hebben een serieus translatie: modeling intercomprehension as probabilistic inference'
-  authors: Thomas Hikaru Clark, Edward Gibson, & Roger Levy
-  venue: arXiv preprint arXiv:2607.12169
+  authors: Thomas Hikaru Clark, Roger P Levy, & Edward Gibson
+  venue: Third Conference on Language Modeling
   year: 2026
-  url: https://arxiv.org/abs/2607.12169
+  url: https://openreview.net/forum?id=ONxV1fFJfb
 - title: 'To words and beyond: Probing large language models for sentence-level psycholinguistic norms of memorability and
     reading times'
   title_key: 'to words and beyond: probing large language models for sentence-level psycholinguistic norms of memorability
@@ -13,60 +13,53 @@
   authors: Thomas Hikaru Clark, Carlos Arriaga, Javier Conde, Gonzalo Martínez, & Pedro Reviriego
   venue: arXiv preprint arXiv:2603.12105
   year: 2026
-  url: ''
-- title: The syntactic constraint on English auxiliary contraction–CORRIGENDUM
-  title_key: the syntactic constraint on english auxiliary contraction-corrigendum
-  authors: Richard Hudson, Nikolas Gisborne, Thomas Hikaru Clark, Eva Duran Eppler, Willem Hollmann, Andrew Rosta, & Graeme
-    Trousdale
-  venue: Journal of Linguistics
-  year: 2026
-  url: https://www.cambridge.org/core/journals/journal-of-linguistics/article/syntactic-constraint-on-english-auxiliary-contraction-corrigendum/EA9918732858C665BC9F55D5C72CFB77
+  url: https://arxiv.org/abs/2603.12105
 - title: The syntactic constraint on English auxiliary contraction
   title_key: the syntactic constraint on english auxiliary contraction
   authors: Richard Hudson, Nikolas Gisborne, Thomas Hikaru Clark, Eva Duran Eppler, Willem Hollmann, Andrew Rosta, & Graeme
     Trousdale
   venue: Journal of Linguistics
   year: 2026
-  url: ''
+  url: https://www.cambridge.org/core/journals/journal-of-linguistics/article/syntactic-constraint-on-english-auxiliary-contraction/B082449AA4A20838000218A6CC9C3AD2
 - title: Readers make targeted regressions to plausible errors in reanalysis of “noisy-channel garden-path” sentences
   title_key: readers make targeted regressions to plausible errors in reanalysis of “noisy-channel garden-path” sentences
   authors: Thomas Hikaru Clark, Roger Levy, & Edward Gibson
   venue: Proceedings of the 30th Conference on Computational Natural Language Learning
   year: 2026
-  url: ''
+  url: https://aclanthology.org/2026.conll-main.25/
 - title: 'Greedy or not, here I come: Language production under vocabulary constraints in humans and resource-rational models'
   title_key: 'greedy or not, here i come: language production under vocabulary constraints in humans and resource-rational
     models'
   authors: Thomas Hikaru Clark, Sihan Chen, & Laura Nicolae
-  venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+  venue: arXiv e-prints
   year: 2026
-  url: https://arxiv.org/abs/2605.15365
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260515365H/abstract
 - title: 'Adding LLMs to the psycholinguistic norming toolbox: A practical guide to getting the most out of human ratings'
   title_key: 'adding llms to the psycholinguistic norming toolbox: a practical guide to getting the most out of human ratings'
   authors: Javier Conde, María Grandury, Tairan Fu, Carlos Arriaga, Gonzalo Martínez, Thomas Clark, Sean Trott, Clarence Gerald
     Green, Pedro Reviriego, & Marc Brysbaert
   venue: Behavior Research Methods
   year: 2026
-  url: ''
+  url: https://link.springer.com/article/10.3758/s13428-026-03129-3
 - title: A distinctive meaning makes a sentence memorable
   title_key: a distinctive meaning makes a sentence memorable
   authors: Thomas Hikaru Clark, Greta Tuckute, Bryan Medina, & Evelina Fedorenko
   venue: Journal of Memory and Language
   year: 2026
-  url: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0749596X25000932
 - title: The Relationship Between Surprisal and Prosodic Prominence in Conversation Reflects Intelligibility‐Oriented Pressures
   title_key: the relationship between surprisal and prosodic prominence in conversation reflects intelligibility-oriented
     pressures
   authors: Thomas Hikaru Clark, Moshe Poliak, Tamar Regev, AJ Haskins, Caroline Robertson, & Edward Gibson
   venue: Cognitive Science
   year: 2025
-  url: ''
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.70134
 - title: 'Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences'
   title_key: 'resource-rational noisy-channel language processing: testing the effect of algorithmic constraints on inferences'
   authors: Thomas Hikaru Clark, Jacob Hoover Vigly, Edward Gibson, & Roger Levy
   venue: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
   year: 2025
-  url: ''
+  url: https://aclanthology.org/2025.emnlp-main.1207/
 - title: 'Elements of World Knowledge (EWoK): A Cognition-Inspired Framework for Evaluating Basic World Knowledge in Language
     Models'
   title_key: 'elements of world knowledge (ewok): a cognition-inspired framework for evaluating basic world knowledge in language
@@ -82,7 +75,7 @@
   authors: Thomas Clark, Jacob Hoover Vigly, Edward Gibson, & Roger Levy
   venue: Proceedings of the Annual Meeting of the Cognitive Science Society
   year: 2025
-  url: ''
+  url: https://escholarship.org/uc/item/9kr1b1gm
 - title: Inferring errors and intended meanings with a generative model of language production in aphasia
   title_key: inferring errors and intended meanings with a generative model of language production in aphasia
   authors: Thomas Clark, Edward Gibson, & Roger Levy
@@ -100,7 +93,7 @@
   authors: Thomas Clark, Ethan Gotlieb Wilcox, Edward Gibson, & Roger Levy
   venue: Proceedings of the Annual Meeting of the Cognitive Science Society
   year: 2022
-  url: ''
+  url: https://escholarship.org/uc/item/1q19f8vt
 - title: Analyzing wrap-up effects through an information-theoretic lens
   title_key: analyzing wrap-up effects through an information-theoretic lens
   authors: Clara Meister, Tiago Pimentel, Thomas Clark, Ryan Cotterell, & Roger Levy
@@ -118,7 +111,7 @@
   authors: Thomas Clark, Costanza Conforti, Fangyu Liu, Zaiqiao Meng, Ehsan Shareghi, & Nigel Collier
   venue: Proceedings of the seventh workshop on noisy user-generated text (W-NUT 2021)
   year: 2021
-  url: ''
+  url: https://aclanthology.org/2021.wnut-1.34/
 - title: 'Experimental Pragmatics: The Making of a Cognitive Science'
   title_key: 'experimental pragmatics: the making of a cognitive science'
   authors: Napoleon Katsos, Ema Banerjee, Yin Jue Chang, Thomas Clark, Joe Cowan, Thomas R Williamson, & Zuzanna Witkowska

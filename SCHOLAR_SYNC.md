@@ -10,7 +10,7 @@ GitHub Actions workflow `.github/workflows/update-scholar.yml` runs weekly (Mond
 
 **Reliable updates:** run `python scripts/fetch_scholar.py` on your Mac (home network), then commit and push `_data/publications.yml`.
 
-Scholar user ID is set in `_config.yml` (`gOucDpQAAAAJ`). You may optionally add a `SCHOLAR_USER_ID` repository secret to override it.
+Scholar user ID is set in `_config.yml` (`8B1frjUAAAAJ`). You may optionally add a `SCHOLAR_USER_ID` repository secret to override it.
 
 ## Preview the site locally
 
