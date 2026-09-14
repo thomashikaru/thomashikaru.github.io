@@ -1,2 +1,5 @@
 scholarly==1.7.11
+# scholarly 1.7.11 imports bibtexparser.bibdatabase, removed in bibtexparser 2.0.
+# Pin to the 1.x line until scholarly supports the new API.
+bibtexparser<2
 PyYAML==6.0.2
